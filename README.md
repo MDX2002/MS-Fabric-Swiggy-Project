@@ -1,6 +1,6 @@
 # 🚀 Swiggy Data Analytics Project (End-to-End using Microsoft Fabric)
 
-📌 Project Overview
+## 📌 Project Overview
 This project focuses on transforming Swiggy’s raw, complex operational data into a streamlined visual intelligence system using Microsoft Fabric.
 
 The Problem
