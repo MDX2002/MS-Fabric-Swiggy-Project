@@ -1,12 +1,13 @@
 # 🚀 Swiggy Data Analytics Project (End-to-End using Microsoft Fabric)
 
-## 📌 Project Overview
+📌 Project Overview
+This project focuses on transforming Swiggy’s raw, complex operational data into a streamlined visual intelligence system using Microsoft Fabric.
 
-This project demonstrates a complete **end-to-end data analytics pipeline** built using Microsoft Fabric.
+The Problem
+Swiggy generates massive amounts of data every second from orders, restaurants, and deliveries. Because this data is raw and scattered across different sources, it is nearly impossible for decision-makers to quickly see which cities are performing best, identify peak order times, or understand customer food preferences.
 
-The goal is to transform raw Swiggy operational data into actionable business insights using modern data engineering and visualization tools.
-
----
+The Solution
+I built an end-to-end data pipeline that automates the journey from "messy data" to "clear insights." By centralizing the data into a Lakehouse, cleaning it with SQL, and modeling it into a Star Schema, I created a single source of truth. The result is an interactive Power BI dashboard that allows stakeholders to monitor KPIs like Total Sales ($53M) and regional performance in real-time, turning raw numbers into actionable business strategy.
 
 ## 🧠 Business Problem
 
